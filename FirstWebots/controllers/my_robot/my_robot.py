@@ -83,4 +83,6 @@ while robot.step(timestep) != -1:
     loop_counter += 1
     pass
 
+
+
 # Enter here exit cleanup code.
